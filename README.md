@@ -1,6 +1,7 @@
 ##Makes an AV install a demo box for fun and potential profit
 
 - Author: PacketInspector ([@pkt_inspector](https://twitter.com/pkt_inspector))
+- Forked by scottymace
 
 This will add named assets with properties, logged in users, netflow, vulnerability scan, and more....
 
@@ -11,13 +12,13 @@ demo. demo. Dance!
 ####To install:
 
 ```
-git clone https://github.com/packetinspector/Alienvault-Demo
+git clone https://github.com/scottymace/Alienvault-Demo
 cd Alienvault-Demo
 perl install.pl
 ```
 ####Fast Install:
 ```
-apt-get -y install git;git clone https://github.com/packetinspector/Alienvault-Demo;cd Alienvault-Demo/;perl install.pl
+apt-get -y install git;git clone https://github.com/scottymace/Alienvault-Demo;cd Alienvault-Demo/;perl install.pl
 ```
 
 The script will do all the work. Nothing to do beforehand. Nothing to do afterhand.
@@ -62,15 +63,15 @@ All the generated log files are put in
 They will be separated by plugin.  A logrotate script for them is installed automatically. 
 
 ####Screenshot
-![ScreenShot](https://raw.githubusercontent.com/packetinspector/Alienvault-Demo/master/screenshots/image1.png)
+![ScreenShot](https://raw.githubusercontent.com/scottymace/Alienvault-Demo/master/screenshots/image1.png)
 
 -
 
-![ScreenShot](https://raw.githubusercontent.com/packetinspector/Alienvault-Demo/master/screenshots/image2.png)
+![ScreenShot](https://raw.githubusercontent.com/scottymace/Alienvault-Demo/master/screenshots/image2.png)
 
 -
 
-![ScreenShot](https://raw.githubusercontent.com/packetinspector/Alienvault-Demo/master/screenshots/image6.png)
+![ScreenShot](https://raw.githubusercontent.com/scottymace/Alienvault-Demo/master/screenshots/image6.png)
 
 
 Forked from Santiago Bassett ([@santiagobassett](https://twitter.com/santiagobassett))

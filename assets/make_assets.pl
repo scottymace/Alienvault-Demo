@@ -8,15 +8,14 @@ MacOSX
 Unix
 FreeBSD
 ReactOS
-Solaris
 OpenBSD
 AtheOS
 Darwin
 HP-UX
 Android
 Linux
-WindowsXP
-WindowsVista
+Windows2012
+Windows10
 Windows2008
 IOS/;
 
